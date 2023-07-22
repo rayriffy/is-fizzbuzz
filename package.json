@@ -1,6 +1,6 @@
 {
   "name": "@rayriffy/is-fizzbuzz",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "author": "Phumrapee Limpianchop <mail@rayriffy.com>",
   "description": "Quick start template for publishing NPM package.",
   "license": "MIT",

@@ -1,5 +1,12 @@
 # @rayriffy/quick-npm
 
+## 0.1.0
+
+### Minor Changes
+
+- 3d0c79f: add isBuzz function
+- d36a490: add isFizz function
+
 ## 0.0.2
 
 ### Patch Changes

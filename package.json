@@ -16,7 +16,7 @@
     }
   },
   "repository": {
-    "url": "git+https://github.com/rayriffy/quick-npm"
+    "url": "git+https://github.com/rayriffy/is-fizzbuzz"
   },
   "publishConfig": {
     "access": "public",

@@ -1,5 +1,11 @@
 # @rayriffy/quick-npm
 
+## 1.0.0
+
+### Major Changes
+
+- c952cf8: add provenance
+
 ## 0.1.0
 
 ### Minor Changes
